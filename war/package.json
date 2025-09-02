@@ -30,7 +30,7 @@
     "eslint": "^7.1.0",
     "eslint-plugin-only-warn": "^1.0.2",
     "file-loader": "^6.0.0",
-    "handlebars": "^3.0.3",
+    "handlebars": "^4.7.7",
     "handlebars-loader": "^1.7.1",
     "jest": "^26.0.1",
     "jest-handlebars": "^1.0.1",
@@ -50,9 +50,9 @@
   "dependencies": {
     "@babel/preset-env": "^7.7.4",
     "babel-loader": "^8.0.6",
-    "bootstrap": "3.3.5",
+    "bootstrap": "5.0.0",
     "jenkins-js-modules": "^1.5.0",
-    "jquery": "2.1.4",
+    "jquery": "3.5.0",
     "stylelint": "^13.0.0",
     "window-handle": "^1.0.0"
   },
